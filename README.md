@@ -1,4 +1,12 @@
 # PyTorch YOLO
+
+```
+学習も推論も完璧でdetection作るなら役に立つリポジトリ。
+こんなやつでラベリングすれば良い。
+https://github.com/miyamotok0105/Yolo_Label
+```
+
+
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
 
 YOLOv4 and YOLOv7 weights are also compatible with this implementation.
